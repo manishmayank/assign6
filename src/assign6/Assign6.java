@@ -11,7 +11,8 @@ package assign6;
  * @author mayank manish
  */
 public class Assign6 {
-
+     public int a;
+     
     /**
      * @param args the command line arguments
      */
