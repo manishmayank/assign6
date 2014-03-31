@@ -12,7 +12,7 @@ package assign6;
  */
 public class Assign6 {
      public int a;
-     
+     sazdscgbnm
     /**
      * @param args the command line arguments
      */
